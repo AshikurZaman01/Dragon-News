@@ -1,6 +1,7 @@
 import { FaGithub } from 'react-icons/fa'
 import { FcGoogle } from 'react-icons/fc'
 import FIndUsOn from './FIndUsOn'
+import Qzone from './Qzone'
 
 const RightSideNav = () => {
     return (
@@ -19,6 +20,10 @@ const RightSideNav = () => {
 
             <div>
                 <FIndUsOn></FIndUsOn>
+            </div>
+
+            <div>
+                <Qzone></Qzone>
             </div>
 
         </div>
