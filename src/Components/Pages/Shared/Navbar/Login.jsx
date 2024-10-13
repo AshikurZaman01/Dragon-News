@@ -7,7 +7,7 @@ const Login = () => {
                 src={user}
                 alt="User avatar"
             />
-            <button className='btn bg-black text-white w-24 hover:bg-gray-800 transition-colors'>
+            <button className='btn bg-black text-white w-24 capitalize hover:bg-gray-800 transition-colors'>
                 Login
             </button>
         </div>
